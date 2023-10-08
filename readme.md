@@ -2,9 +2,8 @@
 
 ## I'm a Designer , Developer!
 
-- 🔭 I’m currently working Developer on [alzubairiex company][alzubairi]!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
